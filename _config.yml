@@ -9,7 +9,7 @@ name: Soowoong Kim
 description: Computer Vision System Developer from Korea Telecom
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/tori.png
+avatar: /images/tori.png
 
 #
 # Flags below are optional
